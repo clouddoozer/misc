@@ -1,4 +1,1 @@
-# misc
-this respository is used to store misc guides and steps so I dont forget
-
-## Minor changes
+This repository is used to store misc. stuff, so I can find it again.
